@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "抱きしめたいほど美しい日々に",
+  "base_artist": "くじら",
+  "createdAt": "2026-03-13T10:59:37.876880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抱きしめたいほど美しい日々に",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/01_抱きしめたいほど美しい日々に_whaledontsleep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "抱きしめたいほど美しい日々に - Beautiful Day",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/02_抱きしめたいほど美しい日々に_-_Beautiful_Day_whaledontsleep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抱きしめたいほど美しい日々に",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_抱きしめたいほど美しい日々に_くじら.txt"
+    }
+  ]
+}
